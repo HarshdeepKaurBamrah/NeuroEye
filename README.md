@@ -2,9 +2,7 @@
 
 ## 📌 Overview
 
-The **NeuroEye Controlled Toy Car** is a Brain-Computer Interface (BCI) based system that allows a user to control a toy car using brain signals and eye movements.
-
-The system captures EEG signals from the user and converts them into commands such as **forward, left, right, and stop** to control the toy car.
+The Neuro-Eye Controlled Toy Car initiative leverages Brain-Computer Interface (BCI) and Electrooculography (EOG) technologies to create an innovative dual-input assistive control system. This system is designed to help individuals with mobility impairments by enabling control through brainwaves and eye movements. EEG signals are used to execute forward and stop commands, while EOG signals detect left and right eye movements (horizontal) to navigate directionally. The integration of these non-invasive technologies provides an intuitive and accessible interface for users with limited physical capabilities.
 
 
 ## 🎯 Objective
