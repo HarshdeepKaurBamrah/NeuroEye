@@ -2,7 +2,10 @@
 
 ## 📌 Overview
 
-The Neuro-Eye Controlled Toy Car initiative leverages Brain-Computer Interface (BCI) and Electrooculography (EOG) technologies to create an innovative dual-input assistive control system. This system is designed to help individuals with mobility impairments by enabling control through brainwaves and eye movements. EEG signals are used to execute forward and stop commands, while EOG signals detect left and right eye movements (horizontal) to navigate directionally. The integration of these non-invasive technologies provides an intuitive and accessible interface for users with limited physical capabilities.
+The Neuro-Eye Controlled Toy Car initiative leverages Brain-Computer Interface (BCI) and Electrooculography (EOG) technologies to create an innovative dual-input assistive control system. 
+This system is designed to help individuals with mobility impairments by enabling control through brainwaves and eye movements. 
+EEG signals are used to execute forward and stop commands, while EOG signals detect left and right eye movements (horizontal) to navigate directionally. 
+The integration of these non-invasive technologies provides an intuitive and accessible interface for users with limited physical capabilities.
 
 
 ## 🎯 Objective
@@ -15,13 +18,10 @@ To develop a system that enables **hands-free control of a vehicle using brain a
 2. BioAmp EXG Pill (2)
 3. BioAmp Cables
 4. Electrodes
-5. Jumper Cables
-6. Conductive Gel
-7. Computer System
-8. RF Module
-9. Motor Driver
-10. HT12D (Decoder), HT12E (Encoder)
-11. Toy Car
+5. RF Module
+6. Motor Driver
+7. HT12D (Decoder), HT12E (Encoder)
+8. Toy Car
 
 
 ## ⚙️ Hardware Setup
