@@ -24,13 +24,9 @@ To develop a system that enables **hands-free control of a vehicle using brain a
 11. Toy Car
 
 
-## ⚙️ System Architecture
+## ⚙️ Hardware Setup
 
-1️⃣ EEG signals are captured using electrodes placed on the user’s head.
-2️⃣ The signals are amplified using BioAmp EXG Pill modules.
-3️⃣ The microcontroller processes the signals.
-4️⃣ RF modules transmit commands to the toy car.
-5️⃣ The motor driver controls the movement of the car.
+<img width="812" height="659" alt="image" src="https://github.com/user-attachments/assets/2cd9380c-03ae-4656-9c2b-ca9468a1c24b" />
 
 
 ## 🚦 Working
