@@ -50,4 +50,5 @@ To develop a system that enables **hands-free control of a vehicle using brain a
 * Shreya Raut
 * Vishvesh Paturkar
 * Pratik Lanjewar
-* Computer Science Department
+
+Computer Science Department
