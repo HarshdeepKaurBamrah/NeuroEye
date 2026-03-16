@@ -42,16 +42,16 @@ To develop a system that enables **hands-free control of a vehicle using brain a
 
 ## 🌍 Applications
 
-* ♿ Brain-controlled wheelchairs
-* 🤖 Robotic arms
-* 🧠 Human-machine interaction research
-* 🏥 Assistive assistive technologies
+* Brain-controlled wheelchairs
+* Robotic arms
+* Human-machine interaction research
+* Assistive assistive technologies
 
 ## 👩‍💻 Author
 
-**Harshdeep Kaur**
-**Vaidehi Utane**
-**Shreya Raut**
-**Vishvesh Paturkar**
-**Pratik Lanjewar**
+* Harshdeep Kaur Bamrah
+* Vaidehi Utane
+* Shreya Raut
+* Vishvesh Paturkar
+* Pratik Lanjewar
 Computer Science Department
